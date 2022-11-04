@@ -20,9 +20,6 @@ The 1.0 Version the Aplication can do the requisitions:
 ![GitHub](keeper.png)
 
 
-Azure Host:
-https://keeper-app.azurewebsites.net
-
 
 
 
